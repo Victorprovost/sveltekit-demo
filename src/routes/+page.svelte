@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		victor provost SvelteKit app
 	</h1>
 
 	<h2>
